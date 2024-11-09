@@ -1,6 +1,6 @@
 1. PWD -> Present Working Directory.
 
-2. git init -> create an empty git repository.
+2. git init -> create an empty git repository(only one time in the given project repository).
 
 3. git status -> to check status of file(tracked or untracked).
 
@@ -13,4 +13,12 @@ note* -> before doing commit for the first time git local repository that should
 
 5. git commit -m "any msg" -> to move file will move from staging area to local repo.
 
-6. git log -> to see the history of git commit.
+6. git log -> to see the history of git commit.(short form details -> git log --online).
+
+7. create remote reop in github
+
+8. git remote -v -> to chech the connection.
+
+9. git remote add origin "github repo URL" -> to establish the connection.
+
+10.git push origin master -> to push from local repo to global repo.
