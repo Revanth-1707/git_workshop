@@ -1,0 +1,13 @@
+PWD -> Present Working Directory.
+
+git init -> create an empty git repository.
+
+git status -> to check status of file(tracked or untracked).
+
+git add . -> to move the file from workspace(untrack) from staging(tracked) area.
+
+note* -> before doing commit for the first time git local repository that should be 		 configured.(git config --global user.name "github username",
+		     git config --global user.email "github email",
+		     git config --list).
+
+git commit -m "any msg" -> to move file will move from staging area to local repo.

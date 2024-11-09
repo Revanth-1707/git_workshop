@@ -1,0 +1,4 @@
+GIT:
+Divided into three space: 1) (git init)  workspace
+			  2) (git add)   staging area
+			  3) (git commit) local repo
