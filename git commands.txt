@@ -22,3 +22,5 @@ note* -> before doing commit for the first time git local repository that should
 9. git remote add origin "github repo URL" -> to establish the connection.
 
 10.git push origin master -> to push from local repo to global repo.
+
+11.git pull -> to commit changes of repo to local.
